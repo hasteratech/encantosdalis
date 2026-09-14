@@ -5,7 +5,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "tsc": "tsc --noEmit",
