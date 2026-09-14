@@ -1,0 +1,6 @@
+{
+  "name": "Laços & Adereços Infantis",
+  "description": "Catálogo e landing page moderna de laços e adereços de cabelo artesanais para meninas de até 12 anos com pedidos e suporte via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
